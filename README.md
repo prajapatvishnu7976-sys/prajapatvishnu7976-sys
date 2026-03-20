@@ -42,8 +42,8 @@
 
 ## 📫 Connect With Me
 
-* 💼 LinkedIn: (Add your link here)
-* 🌐 Portfolio: (Add your portfolio link here)
+* 💼 LinkedIn: (https://www.linkedin.com/in/vishnu-kumar-545037327/)
+* 🌐 Portfolio: (https://prajapatvishnu7976-sys.github.io/My-portfolio/)
 
 ---
 
