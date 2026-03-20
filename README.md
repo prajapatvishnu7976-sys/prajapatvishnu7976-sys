@@ -1,5 +1,7 @@
 # Hi 👋, I'm Vishnu Kumar
-
+<p align="center">
+  <img src="banner.png" />
+</p>
 🚀 Passionate Full Stack Developer | AI Enthusiast | Problem Solver
 
 ---
