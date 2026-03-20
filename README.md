@@ -1,16 +1,50 @@
-## Hi there 👋
+# Hi 👋, I'm Vishnu Prajapat
 
-<!--
-**prajapatvishnu7976-sys/prajapatvishnu7976-sys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Passionate Full Stack Developer | AI Enthusiast | Problem Solver
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+* 🎓 Computer Science Student
+* 💡 I love building real-world applications
+* 🔥 Currently working on AI-powered systems & scalable apps
+* 📈 Focused on improving problem-solving & development skills
+
+---
+
+## 🛠️ Tech Stack
+
+* 💻 Languages: JavaScript, Dart, C++
+* 🌐 Frontend: HTML, CSS, JavaScript
+* ⚙️ Backend: Node.js
+* 📱 App Development: Flutter
+* 🔥 Database & Tools: Firebase, Git, GitHub
+
+---
+
+## 🚀 Projects
+
+* 📊 Smart Attendance System (Flutter + Firebase)
+* 💰 FinSarthi (AI-powered Finance Web App)
+* 🔐 CyberSecurity Fraud Detection System
+* 🌐 Personal Portfolio Website
+
+---
+
+## 📈 GitHub Stats
+
+* 🔥 Active Contributor
+* 📊 Consistent Daily Improvements
+* 💡 Focused on Clean Code & Scalable Systems
+
+---
+
+## 📫 Connect With Me
+
+* 💼 LinkedIn: (Add your link here)
+* 🌐 Portfolio: (Add your portfolio link here)
+
+---
+
+⭐ *“Code. Build. Learn. Repeat.”*
