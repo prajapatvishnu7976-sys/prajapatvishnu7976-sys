@@ -1,4 +1,4 @@
-# Hi 👋, I'm Vishnu Prajapat
+# Hi 👋, I'm Vishnu Kumar
 
 🚀 Passionate Full Stack Developer | AI Enthusiast | Problem Solver
 
@@ -27,7 +27,7 @@
 
 * 📊 Smart Attendance System (Flutter + Firebase)
 * 💰 FinSarthi (AI-powered Finance Web App)
-* 🔐 CyberSecurity Fraud Detection System
+* code logic app 
 * 🌐 Personal Portfolio Website
 
 ---
