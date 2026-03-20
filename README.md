@@ -1,6 +1,6 @@
 # Hi 👋, I'm Vishnu Kumar
 <p align="center">
-  <img src="banner.png" />
+  <img src="github profile.png" />
 </p>
 🚀 Passionate Full Stack Developer | AI Enthusiast | Problem Solver
 
