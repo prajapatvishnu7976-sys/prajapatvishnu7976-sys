@@ -57,6 +57,7 @@
 
 * 💼 LinkedIn: https://www.linkedin.com/in/vishnu-kumar-545037327/
 * 🌐 Portfolio: https://prajapatvishnu7976-sys.github.io/My-portfolio/
+* 📄 Resume: https://drive.google.com/file/d/1RB7YNkoox0feeuzkOE5ZFBRIPNCuJKFy/view?usp=drive_link
 
 ---
 
