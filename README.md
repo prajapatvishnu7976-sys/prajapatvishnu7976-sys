@@ -1,7 +1,7 @@
 # Hi 👋, I'm Vishnu Kumar
 
 <p align="center">
-  <img src="./github%20profile.png" alt="Vishnu Kumar - Full Stack Developer" width="100%" />
+  <img src="./github-profile-banner.png" alt="Vishnu Kumar — Full Stack & Flutter Developer" width="100%" />
 </p>
 
 <h3 align="center">Full Stack Developer | Flutter Developer | Java & DSA</h3>
